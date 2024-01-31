@@ -1,3 +1,5 @@
 my_env/
 data/
 aug_data/
+logs/
+models/
